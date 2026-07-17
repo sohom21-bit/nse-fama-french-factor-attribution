@@ -48,7 +48,7 @@ The original scope for the model comparison phase targeted a Fama-French five-fa
 ## Repository Structure
 
 ```
-├── Factor_based_return_FINAL.ipynb   # Main analysis notebook (all 8 phases)
+├── Factor_based_return.ipynb   # Main analysis notebook (all 8 phases)
 ├── 2025-12_FourFactors_and_Market_Returns_Monthly_SurvivorshipBiasAdjusted.csv  # IIMA factor data
 └── README.md
 ```
@@ -60,7 +60,7 @@ The original scope for the model comparison phase targeted a Fama-French five-fa
    pip install yfinance pandas numpy matplotlib seaborn statsmodels scipy
    ```
 2. Download the latest Fama-French and Momentum factor file (Monthly, Survivorship-Bias Adjusted) from the [IIMA data library](https://faculty.iima.ac.in/iffm/Indian-Fama-French-Momentum/) and place it in the repository root.
-3. Open `Factor_based_return_FINAL.ipynb` and run all cells top to bottom.
+3. Open `Factor_based_return.ipynb` and run all cells top to bottom.
 
 ## Limitations
 
