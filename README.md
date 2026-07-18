@@ -70,4 +70,5 @@ The original scope for the model comparison phase targeted a Fama-French five-fa
 
 ## Author
 
-Sohom — incoming MSc Statistics, IIT Kanpur
+Sohom Halder —  MSc Statistics, IIT Kanpur
+[LinkedIn](https://www.linkedin.com/in/sohom-halder-6200a8406/) · [GitHub](https://github.com/sohom21-bit) · [Email](haldersohom21@gmail.com)
